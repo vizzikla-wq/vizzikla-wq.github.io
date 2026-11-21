@@ -1,0 +1,3 @@
+# Kaldırılan sesler: her satıra bir ses adı (uzantısız, __xN eki olmadan).
+# Uygulamanın içinde gelen ses de olsa her telefonda susar; siteden inmişse
+# telefondan silinir. Sonra: python C:/Users/herdo/vittiri_vizzik/tools/uzak_ses/liste.py
