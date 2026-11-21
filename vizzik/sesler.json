@@ -1,4 +1,40 @@
 {
- "sounds": [],
+ "sounds": [
+  {
+   "folder": "kombo",
+   "file": "attigini_vuracaksin.mp3",
+   "size": 27210
+  },
+  {
+   "folder": "kombo",
+   "file": "ayrica_beni_bugune_kadar_kimse_isiramadi.mp3",
+   "size": 54377
+  },
+  {
+   "folder": "kombo",
+   "file": "bak_aile_var_burda.mp3",
+   "size": 20941
+  },
+  {
+   "folder": "kombo",
+   "file": "hakkaten_mucize_ya.mp3",
+   "size": 21776
+  },
+  {
+   "folder": "kombo",
+   "file": "masallah_bastan_asagi_guzellik_abidesisin.mp3",
+   "size": 53123
+  },
+  {
+   "folder": "kombo",
+   "file": "olumune_kadar_arkasindayiz.mp3",
+   "size": 28464
+  },
+  {
+   "folder": "sonuc",
+   "file": "hah_bi_sen_eksiktin.mp3",
+   "size": 23866
+  }
+ ],
  "blocked": []
 }
