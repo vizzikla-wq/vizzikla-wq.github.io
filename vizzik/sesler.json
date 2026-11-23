@@ -36,6 +36,13 @@
    "size": 23866
   }
  ],
- "repliks": [],
+ "repliks": [
+  {
+   "file": "selamalikum.mp3",
+   "text": "Selamünaleyküm!",
+   "secret": false,
+   "size": 41134
+  }
+ ],
  "blocked": []
 }

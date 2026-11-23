@@ -1,1 +1,2 @@
 # ad|Bildirimde görünen yazı|gizli (gizli ise 1)
+selamalikum|Selamünaleyküm!|
