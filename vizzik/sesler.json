@@ -2,6 +2,11 @@
  "sounds": [
   {
    "folder": "kombo",
+   "file": "altinlarinizi_cikarin.mp3",
+   "size": 25956
+  },
+  {
+   "folder": "kombo",
    "file": "attigini_vuracaksin.mp3",
    "size": 27210
   },
@@ -17,8 +22,48 @@
   },
   {
    "folder": "kombo",
+   "file": "ben_burdan_cikicam.mp3",
+   "size": 18433
+  },
+  {
+   "folder": "kombo",
+   "file": "bizi_kim_alabilir_biz_buradayiz.mp3",
+   "size": 91576
+  },
+  {
+   "folder": "kombo",
+   "file": "bu_mahallenin_abisi_sensin.mp3",
+   "size": 24702
+  },
+  {
+   "folder": "kombo",
+   "file": "canlanin_canlanin.mp3",
+   "size": 84888
+  },
+  {
+   "folder": "kombo",
+   "file": "en_sevdigim_en_sevdigim_harika.mp3",
+   "size": 83216
+  },
+  {
+   "folder": "kombo",
+   "file": "evi_gecindirir.mp3",
+   "size": 32225
+  },
+  {
+   "folder": "kombo",
    "file": "hakkaten_mucize_ya.mp3",
    "size": 21776
+  },
+  {
+   "folder": "kombo",
+   "file": "kim_yapti_lan_bunu.mp3",
+   "size": 15089
+  },
+  {
+   "folder": "kombo",
+   "file": "lan_oglum_bunu_yapanin_var_ya.mp3",
+   "size": 23866
   },
   {
    "folder": "kombo",
@@ -31,9 +76,44 @@
    "size": 28464
   },
   {
+   "folder": "kombo",
+   "file": "ooooo_adanali_kemal.mp3",
+   "size": 43092
+  },
+  {
+   "folder": "sonuc",
+   "file": "allahtan_hak_midir_bu_memo.mp3",
+   "size": 24702
+  },
+  {
    "folder": "sonuc",
    "file": "hah_bi_sen_eksiktin.mp3",
    "size": 23866
+  },
+  {
+   "folder": "sonuc",
+   "file": "iste_ben_boyle_cagdas_orf_ve_ananelerine_bagli_bir_kadinim.mp3",
+   "size": 94919
+  },
+  {
+   "folder": "sonuc",
+   "file": "lan_oglum_bunu_yapanin_var_ya.mp3",
+   "size": 23866
+  },
+  {
+   "folder": "sonuc",
+   "file": "vade_vade_vu.mp3",
+   "size": 51034
+  },
+  {
+   "folder": "yanlis",
+   "file": "benim_canimi_sikma_lan.mp3",
+   "size": 16761
+  },
+  {
+   "folder": "kaybetme",
+   "file": "anladin_mi_bunun_bedelini_sen_odeyeceksin.mp3",
+   "size": 53123
   }
  ],
  "repliks": [],
